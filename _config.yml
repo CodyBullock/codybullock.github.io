@@ -1,6 +1,6 @@
 # Site
 repository: codybullock.github.io
-favicon: images/favicon.ico
+favicon: DSC_0077.jpg
 
 # Content configuration version
 version: 2
@@ -15,17 +15,17 @@ website: www.github.com/codybullock.github.io
 darkmode: false
 
 # Social links
-twitter_username: facespics
+#twitter_username: facespics
 github_username:  codybullock
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: codybullock
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,29 +48,28 @@ additional_links:
 # about_title: About Me
 about_profile_image: DSC_0077.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Cody and I'm a senior in Computer Engineering at Virginia Tech. In addition to my studies, I also participate in undergraduate research and plan to get my Master's in Computer Engineering.
 
-  I am most skilled in: <mark>C++</mark> and <mark>Verilog</mark>
+  I am most skilled in: <mark>C++</mark> and <mark>Verilog HDL</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        title: Home Audio System
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+         #   icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Designed and built a home audio system capable of altering the gain of certain frequency bands of an audio signal using potentiometers.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This system was created using a Graphic Equalizer circuit and a Class-D Amplifier
+          LTspice was used for preliminary design and simulations and tested using an oscilloscope, wave generator, and network analyzer
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
