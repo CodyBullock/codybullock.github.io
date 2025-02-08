@@ -30,10 +30,6 @@ linkedin_username: codybullock
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +42,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: DSC_0077.jpg
+about_profile_image: DSC_0077.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Cody and I'm a senior in Computer Engineering at Virginia Tech. In addition to my studies, I also participate in undergraduate research and plan to get my Master's in Computer Engineering.
 
@@ -58,18 +54,11 @@ content:
     content:
       - layout: top-middle
         title: Home Audio System
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-         #   icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+
         quote: >
           Designed and built a home audio system capable of altering the gain of certain frequency bands of an audio signal using potentiometers.
         description: | # this will include new lines to allow paragraphs
-          This system was created using a Graphic Equalizer circuit and a Class-D Amplifier
-          LTspice was used for preliminary design and simulations and tested using an oscilloscope, wave generator, and network analyzer
+          This system was created using a Graphic Equalizer circuit and a Class-D Amplifier. LTspice was used for preliminary design and simulations and tested using an oscilloscope, wave generator, and network analyzer
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,9 +78,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Virignia Tech
+        caption: 2022 - 2025
+        sub_title: B.S. Computer Engineering
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
