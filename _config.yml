@@ -83,8 +83,7 @@ content:
  #       description: | # this will include new lines to allow paragraphs
  #         Currently pursuing a B.S. in Computer Engineering. Along with being a current radio DJ for VTs student radio station, I was also a student mentor in my Sophomore year.
 
-
-  - title: A Little More About Me
+ - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
