@@ -63,13 +63,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: VT MICS Lab
+        sub_title: Hardware/Software Designer
+        caption: September 2024 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging hole
+            Currently working with the Virginia Tech Agriculture Department to develop a wireless sensor circuit that can measure pH, Lactate, and VFA, then send that data over LoRa. Working with a pH sensor prototype and designing a PCB with an MCU, three chemical sensors, and a LoRa module. Working with C++ for the embedded programming of the MCU, and giving weekly presentations on updates and progress.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Virginia Tech
+       # sub_title: Hardware/Software Designer
+        caption: 2022 - 2024
+        quote: >
+          Studied abroad in Japan and South Korea
+        description: | # this will include new lines to allow paragraphs
+            Currently pursuing a B.S. in Computer Engineering. Along with being a current radio DJ for VTs student radio station, I was also a student mentor in my Sophomore year.
+
+            
 #- title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
