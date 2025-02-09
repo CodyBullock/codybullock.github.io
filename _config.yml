@@ -55,9 +55,9 @@ content:
       - layout: top-middle
         title: Home Audio System
         quote: >
-          #Designed and built a home audio system capable of altering the gain of certain frequency bands of an audio signal using potentiometers.
+          Designed and built a home audio system capable of altering the gain of certain frequency bands of an audio signal using potentiometers.
         description: | # this will include new lines to allow paragraphs
-            # This system was created using a Graphic Equalizer circuit and a Class-D Amplifier. LTspice was used for preliminary design and simulations and tested using an oscilloscope, wave generator, and network analyzer.
+         This system was created using a Graphic Equalizer circuit and a Class-D Amplifier. LTspice was used for preliminary design and simulations and tested using an oscilloscope, wave generator, and network analyzer.
              
 - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -69,7 +69,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-           # Currently working with the Virginia Tech Agriculture Department to develop a wireless sensor circuit that can measure pH, Lactate, and VFA, then send that data over LoRa. Working with a pH sensor prototype and designing a PCB with an MCU, three chemical sensors, and a LoRa module. Working with C++ for the embedded programming of the MCU, and giving weekly presentations on updates and progress.
+            Currently working with the Virginia Tech Agriculture Department to develop a wireless sensor circuit that can measure pH, Lactate, and VFA, then send that data over LoRa. Working with a pH sensor prototype and designing a PCB with an MCU, three chemical sensors, and a LoRa module. Working with C++ for the embedded programming of the MCU, and giving weekly presentations on updates and progress.
 
 
 
@@ -81,9 +81,9 @@ content:
         caption: 2022 - 2025
         sub_title: B.S. Computer Engineering
         quote: >
-          #Studied abroad in Japan and South Korea
+          Studied abroad in Japan and South Korea
         description: | # this will include new lines to allow paragraphs
-          #Currently pursuing a B.S. in Computer Engineering. Along with being a current radio DJ for VT's student radio station, I was also a student mentor in my Sophomore year.
+          Currently pursuing a B.S. in Computer Engineering. Along with being a current radio DJ for VTs student radio station, I was also a student mentor in my Sophomore year.
 
  # - title: A Little More About Me
  #   layout: text
