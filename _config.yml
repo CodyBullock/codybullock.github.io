@@ -9,7 +9,7 @@ version: 2
 name: Cody Bullock
 title: Hardware/Software Designer
 email: codyb04@vt.edu
-website: www.github.com/codybullock.github.io
+#website: www.github.com/codybullock.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
