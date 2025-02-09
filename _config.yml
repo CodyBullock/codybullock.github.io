@@ -59,17 +59,17 @@ content:
         description: | # this will include new lines to allow paragraphs
          This system was created using a Graphic Equalizer circuit and a Class-D Amplifier. LTspice was used for preliminary design and simulations and tested using an oscilloscope, wave generator, and network analyzer.
           
-- title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: VT MICS Lab
-        sub_title: Hardware/Software Designer
-        caption: September 2024 - Present
-        quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            And what does this do
+#- title: Experience # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+ #     - layout: left
+ #       title: VT MICS Lab
+ #       sub_title: Hardware/Software Designer
+ #       caption: September 2024 - Present
+ #       quote: >
+ #       #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+ #       description: | # this will include new lines to allow paragraphs
+ #           And what does this do
             
 #  - title: Education # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -84,14 +84,14 @@ content:
  #         Currently pursuing a B.S. in Computer Engineering. Along with being a current radio DJ for VTs student radio station, I was also a student mentor in my Sophomore year.
 
 
-#  - title: A Little More About Me
-#    layout: text
- #   content: | # this will include new lines to allow paragraphs
- #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
- #     - Rock climbing
- #     - Gaming
- #     - Knitting
- #    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
