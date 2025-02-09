@@ -69,7 +69,7 @@ content:
         quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Currently working with the Virginia Tech Agriculture Department to develop a wireless sensor circuit that can measure pH, Lactate, and VFA, then send that data over LoRa. Working with a pH sensor prototype and designing a PCB with an MCU, three chemical sensors, and a LoRa module. Working with C++ for the embedded programming of the MCU, and giving weekly presentations on updates and progress.
+           # Currently working with the Virginia Tech Agriculture Department to develop a wireless sensor circuit that can measure pH, Lactate, and VFA, then send that data over LoRa. Working with a pH sensor prototype and designing a PCB with an MCU, three chemical sensors, and a LoRa module. Working with C++ for the embedded programming of the MCU, and giving weekly presentations on updates and progress.
 
 #  - title: Education # Title for the section
 #    layout: list # Type of content section (list/text)
