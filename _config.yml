@@ -58,7 +58,7 @@ content:
           Designed and built a home audio system capable of altering the gain of certain frequency bands of an audio signal using potentiometers.
         description: | # this will include new lines to allow paragraphs
          This system was created using a Graphic Equalizer circuit and a Class-D Amplifier. LTspice was used for preliminary design and simulations and tested using an oscilloscope, wave generator, and network analyzer.
-             
+=begin          
 - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -84,6 +84,7 @@ content:
           Studied abroad in Japan and South Korea
         description: | # this will include new lines to allow paragraphs
           Currently pursuing a B.S. in Computer Engineering. Along with being a current radio DJ for VTs student radio station, I was also a student mentor in my Sophomore year.
+=end
 
  # - title: A Little More About Me
  #   layout: text
